@@ -1,25 +1,67 @@
-# ReduxSimpleStarter
+# React Youtube Player
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This react application acts like youtube.It has a search bar in which when the text is entered, it makes the video list to update
+as the text is typed.The videos can be played and each one has a thumbnail as well.
 
-### Getting Started
+## Getting Started
 
-There are two methods for getting started with this repo.
+To get started simply navigate to the project directory and:
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+`npm install`
+`npm run`
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+check localhost:8080.
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### Prerequisites
+
+The boilerplate has everything you just need to install Node.js.
 
 ```
-> npm install
-> npm start
+Give examples
 ```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+![alt text](http://i.imgur.com/ncZCAhA.png)
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+
+
+## Built With
+
+* Youtube V3 Api
+* NPM 
+* React.js
+
+## Contributing
+
+To make this project better please contribute.
+
+
+## Authors
+
+* **Mohammad Hasham** 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Special Thanks to Stephen Grider.
+* Inspired from Stephen Grider.
+
