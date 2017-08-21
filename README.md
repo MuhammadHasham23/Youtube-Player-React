@@ -31,15 +31,6 @@ Give the example
 ```
 ![alt text](http://i.imgur.com/ncZCAhA.png)
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
 
 ## Built With
 
